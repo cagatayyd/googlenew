@@ -1,0 +1,84 @@
+.header {
+    list-style-type: none;
+    margin: 10px;
+    overflow: hidden;
+    margin-right: 16px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    color: rgb(90, 92, 95);
+    text-decoration: none;}
+.header2{
+    float: right ;}
+.buton{
+background-color: #4285f4;
+border-radius: 4px;
+width: 60px;
+height: 30px;
+color: white;
+font-family: arial,sans-serif;
+flex-direction: row-reverse;}
+.glogo{
+margin-left: 43%;
+margin-top: 165px;}
+
+.searchbar{
+    height:40px;
+    width: 580px;
+    font-size:16px;
+    border-radius: 30px;
+    margin-left: 35% ;
+    border: 1px solid #dcdcdc;
+    margin-top: 10px;}
+.voice{
+    height:20px;
+    padding-right: 50px}
+    .buttons{
+        margin-left: 42%;
+    }
+.searchbut{
+    margin-top: 10px;
+    background-color: #ebe8e8;
+    border: none;
+    color:#707070;
+    font-size:15px;
+    padding: 10px 20px;
+    border-radius:4px;}
+.alt{
+position: absolute;
+bottom: 1px;
+text-decoration: none;
+color: #707070;
+}
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+  }
+  
+  .footerli {
+    float: left;
+    list-style: none;
+  }
+  
+  .footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footerli a:hover {
+    text-decoration: underline;
+  }
